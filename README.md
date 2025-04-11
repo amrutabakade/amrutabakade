@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in **d
 
 ## 📌 Featured Projects
 - **AI Mock Interview Platform** – Simulates mock interviews using Gemini AI, records responses, and stores logs. Built with Next.js + PostgreSQL.
-- **Learning Management System (PICT)** – Streamlines course management and communication. Built with Java + MySQL using JDBC.
+- **Learning Management System (PICT)** – Streamlines course management and communication. Built with MERN stack.
 - **PaperSync** – Real-time collaborative document editor using MongoDB Atlas.
 - **Dynamic VM Allocation with Load Balancing** – Simulates intelligent resource management on AWS.
 
