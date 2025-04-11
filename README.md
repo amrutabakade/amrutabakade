@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in **d
 - **Database**: PostgreSQL, MySQL, MongoDB  
 - **Tools**: Git, GitHub, VS Code, REST APIs  
 - **Cloud**: AWS (EC2, S3), Cloudinary
+- **Problem solving / DSA** : C++
 
 ---
 
