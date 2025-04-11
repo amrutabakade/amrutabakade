@@ -1,5 +1,5 @@
 # Hi, I'm Amruta Bakade 👋  
-### Full Stack Developer | SDE Enthusiast | Code & Coffee ☕️
+### Full Stack Developer | SDE Enthusiast |
 
 Welcome to my GitHub! I'm a passionate developer with a strong foundation in **data structures & algorithms** and a love for building real-world applications using **modern web technologies**.
 
@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a passionate developer with a strong foundation in **d
 ## 📫 Let's Connect!
 - 🔗 LinkedIn : https://www.linkedin.com/in/amruta-bakade/
 - 📄 Resume : https://drive.google.com/file/d/1fpJUyg8PW2nzJqCTahT8FzjitnKFGpLq/view?usp=drivesdk
+- 💡 Leetcode : https://leetcode.com/u/amrutaVJbakade/
 
 
 ---
